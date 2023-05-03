@@ -3,5 +3,10 @@ footer {
     font-weight: bolder;
     color: rgb(110, 110, 28);
     height: 30px;
-
 }
+header {
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(110, 110, 28);
+ }
+
