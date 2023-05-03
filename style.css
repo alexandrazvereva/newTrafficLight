@@ -1,7 +1,19 @@
+body {
+    width: 1280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
 main {
-
     display: flex;
     justify-content: center;
+}
+
+header {
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(110, 110, 28);
 }
 
 .rectangle {
@@ -12,7 +24,7 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-   }
+}
 
 .circle {
     width: 100px;
@@ -37,6 +49,7 @@ main {
 
 .green {
     background-color: aquamarine;
+}
 
 footer {
     font-size: 15px;
@@ -45,9 +58,3 @@ footer {
     height: 30px;
 
 }
-header {
-    font-size: 20px;
-    font-weight: bolder;
-    color: rgb(110, 110, 28);
- }
-
